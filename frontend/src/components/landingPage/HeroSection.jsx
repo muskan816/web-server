@@ -1,4 +1,4 @@
-import { FaChartPie, FaPiggyBank, FaRobot } from "react-icons/fa";
+import { FaArrowRight, FaChartPie, FaPiggyBank, FaRobot } from "react-icons/fa";
 import { BiSolidReport } from "react-icons/bi";
 
 const HeroSection = () => {
@@ -19,7 +19,7 @@ const HeroSection = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 mb-10">
             <button className="px-7 py-4 bg-sky-700 text-white rounded-lg text-sm font-medium hover:bg-sky-800 transition cursor-pointer">
-              Create Free ACccount -&gt;
+              Create Free Account <FaArrowRight/>
             </button>
 
             <button className="px-7 py-4 border border-gray-300 rounded-lg text-sm font-medium hover:bg-gray-100 transition cursor-pointer">

@@ -23,10 +23,10 @@ const HowItWork = () => {
   ];
   return (
     <>
-      <section id="features" className="max-w-7xl mx-auto px-6 lg:px-10 pb-20">
+      <section id="howitworks" className="max-w-7xl mx-auto px-6 lg:px-10 pb-20">
         <div className="text-center mb-14">
           <h2 className="text-3xl md:text-4xl font-black mb-4">
-            EHow IntelliSense Works
+            How IntelliSense Works
           </h2>
           <p className="text-gray-500 max-w-2xl mx-auto leading-8">
             A simple but powerful workflow that transforms random monthly
